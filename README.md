@@ -7,11 +7,12 @@ I'm a passionate developer and data enthusiast, always eager to learn and build 
 - 🌱 I’m currently learning **TypeScript** to enhance my frontend skills and diving deep into **Machine Learning**.
 - 🔬 My main area of interest is **Computer Vision applied to Healthcare**, looking for ways to use technology to improve people's lives.
 
-<br/>
+---
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/luizcarlos00">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizcarlos00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarlos00&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
@@ -19,5 +20,4 @@ I'm a passionate developer and data enthusiast, always eager to learn and build 
 ### Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/luizcarlos00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luizcarlos00" height="30" width="40" /></a>
-</p>
+<a href="
