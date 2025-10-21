@@ -31,5 +31,3 @@ I'm a passionate developer and data enthusiast, always eager to learn and build 
 </div>
 
 ###
-A white circle with a dark file icon outlined in the center
-Profile Readme Generato
